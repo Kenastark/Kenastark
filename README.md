@@ -9,3 +9,9 @@ I'm a Data Expert with a major in Data Engineering. I'm passionate about getting
 - 📫 How to reach me: ikennaudeani@gmail.com
 - ⚡ Fun fact: Blockchains are just distributed and open databases
 - ⚡ Did you know?💡:There are 2.5 quintillion bytes of data created each day at our current pace.
+
+## Technologies and Tools🔧⚙️
+
+
+## Let's Connect🌐
+[Twiiter](https://twitter.com/ikenna_udeani)
