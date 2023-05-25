@@ -22,5 +22,5 @@ I'm a Data Expert with a major in Data Engineering. I'm passionate about getting
 ✅ Knowledge Graphs (Neo4j)
 
 ## Let's Connect🌐
-[Twiiter](https://twitter.com/ikenna_udeani) | [LinkedIn](https://www.linkedin.com/in/ikenna-udeani-a1a66a162/)  | [Medium](https://medium.com/@ikennaudeani
+[Twitter](https://twitter.com/ikenna_udeani) | [LinkedIn](https://www.linkedin.com/in/ikenna-udeani-a1a66a162/)  | [Medium](https://medium.com/@ikennaudeani
 )
